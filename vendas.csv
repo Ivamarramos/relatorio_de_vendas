@@ -1,0 +1,201 @@
+data,produto,quantidade,preco_unitario,vendedor
+2026-02-27,Caneta,3,2.5,Bruno
+2026-04-25,Caderno,1,18.9,Ana
+2026-08-05,Caneta,1,2.5,Ana
+2026-04-22,Caderno,5,18.9,Ana
+2026-04-12,Fone de ouvido,5,75.5,Diego
+2026-04-23,Mouse,5,45.0,Carla
+2026-01-04,Caderno,4,18.9,Carla
+2026-05-23,Caderno,2,18.9,Carla
+2026-02-22,Caneta,4,2.5,Ana
+2026-07-03,Mochila,5,89.9,Carla
+2026-01-23,Fone de ouvido,4,75.5,Ana
+2026-07-13,Caneta,5,2.5,Carla
+2026-07-05,Teclado,2,120.0,Ana
+2026-01-24,Fone de ouvido,2,75.5,Carla
+2026-02-10,Caderno,1,18.9,Diego
+2026-05-23,Mouse,3,45.0,Bruno
+2026-07-09,Mochila,2,89.9,Carla
+2026-02-06,Teclado,2,120.0,Bruno
+2026-03-25,Mouse,4,45.0,Carla
+2026-04-23,Fone de ouvido,3,75.5,Ana
+2026-04-28,Caneta,3,2.5,Diego
+2026-05-18,Caneta,2,2.5,Carla
+2026-04-19,Fone de ouvido,4,75.5,Diego
+2026-08-23,Caderno,3,18.9,Bruno
+2026-05-07,Fone de ouvido,5,75.5,Carla
+2026-08-08,Teclado,4,120.0,Carla
+2026-04-23,Caderno,5,18.9,Diego
+2026-02-16,Caneta,1,2.5,Bruno
+2026-03-23,Fone de ouvido,4,75.5,Ana
+2026-07-17,Mouse,5,45.0,Diego
+2026-09-28,Mochila,5,89.9,Ana
+2026-02-28,Fone de ouvido,5,75.5,Carla
+2026-06-24,Caneta,3,2.5,Diego
+2026-03-22,Mouse,1,45.0,Carla
+2026-09-14,Caderno,5,18.9,Ana
+2026-06-02,Fone de ouvido,5,75.5,Bruno
+2026-03-20,Mochila,2,89.9,Ana
+2026-06-15,Mouse,1,45.0,Ana
+2026-07-05,Mochila,2,89.9,Ana
+2026-05-04,Teclado,1,120.0,Ana
+2026-09-06,Caneta,5,2.5,Bruno
+2026-03-07,Fone de ouvido,4,75.5,Bruno
+2026-05-16,Teclado,5,120.0,Diego
+2026-04-19,Teclado,2,120.0,Carla
+2026-07-24,Fone de ouvido,3,75.5,Diego
+2026-09-22,Mouse,1,45.0,Bruno
+2026-04-26,Caneta,3,2.5,Ana
+2026-04-28,Teclado,2,120.0,Ana
+2026-02-06,Fone de ouvido,1,75.5,Bruno
+2026-02-04,Caneta,3,2.5,Ana
+2026-09-21,Caderno,3,18.9,Diego
+2026-04-20,Teclado,2,120.0,Diego
+2026-05-05,Mouse,4,45.0,Bruno
+2026-02-18,Caneta,4,2.5,Carla
+2026-08-05,Mouse,4,45.0,Ana
+2026-02-20,Caneta,4,2.5,Carla
+2026-02-25,Caderno,2,18.9,Bruno
+2026-08-18,Caderno,4,18.9,Bruno
+2026-05-23,Mouse,2,45.0,Ana
+2026-08-15,Teclado,1,120.0,Ana
+2026-01-08,Caneta,2,2.5,Bruno
+2026-07-28,Mouse,4,45.0,Bruno
+2026-07-25,Caneta,2,2.5,Diego
+2026-01-02,Mouse,3,45.0,Diego
+2026-05-27,Mouse,5,45.0,Diego
+2026-03-21,Caderno,3,18.9,Bruno
+2026-01-30,Teclado,5,120.0,Ana
+2026-06-10,Caneta,1,2.5,Diego
+2026-09-15,Teclado,2,120.0,Ana
+2026-09-18,Caneta,2,2.5,Ana
+2026-02-04,Fone de ouvido,2,75.5,Diego
+2026-03-03,Teclado,2,120.0,Ana
+2026-02-11,Mouse,5,45.0,Carla
+2026-05-14,Caderno,3,18.9,Bruno
+2026-05-16,Mouse,2,45.0,Carla
+2026-08-23,Mochila,1,89.9,Ana
+2026-08-23,Teclado,5,120.0,Ana
+2026-02-07,Teclado,2,120.0,Carla
+2026-03-09,Mochila,1,89.9,Bruno
+2026-07-09,Mochila,2,89.9,Diego
+2026-06-04,Teclado,5,120.0,Ana
+2026-06-03,Fone de ouvido,1,75.5,Bruno
+2026-05-16,Caneta,1,2.5,Bruno
+2026-05-20,Mochila,5,89.9,Bruno
+2026-06-25,Caderno,3,18.9,Diego
+2026-05-09,Caneta,1,2.5,Diego
+2026-05-22,Caneta,1,2.5,Carla
+2026-03-08,Fone de ouvido,3,75.5,Bruno
+2026-08-15,Teclado,4,120.0,Ana
+2026-02-27,Caneta,2,2.5,Ana
+2026-07-09,Teclado,5,120.0,Bruno
+2026-08-09,Caderno,1,18.9,Carla
+2026-07-06,Caneta,3,2.5,Bruno
+2026-05-08,Fone de ouvido,1,75.5,Carla
+2026-07-28,Teclado,2,120.0,Bruno
+2026-03-25,Caderno,4,18.9,Ana
+2026-04-02,Fone de ouvido,3,75.5,Diego
+2026-05-08,Mochila,2,89.9,Ana
+2026-07-15,Caneta,4,2.5,Bruno
+2026-04-13,Mouse,3,45.0,Carla
+2026-04-27,Caderno,1,18.9,Bruno
+2026-07-24,Mochila,3,89.9,Ana
+2026-05-23,Mochila,5,89.9,Diego
+2026-06-19,Caneta,1,2.5,Carla
+2026-04-02,Teclado,3,120.0,Ana
+2026-02-25,Teclado,4,120.0,Carla
+2026-06-10,Mouse,5,45.0,Ana
+2026-07-17,Teclado,2,120.0,Carla
+2026-01-23,Fone de ouvido,4,75.5,Ana
+2026-09-24,Teclado,2,120.0,Carla
+2026-08-09,Caneta,3,2.5,Carla
+2026-03-05,Fone de ouvido,3,75.5,Carla
+2026-07-29,Mochila,4,89.9,Carla
+2026-03-07,Caderno,4,18.9,Diego
+2026-03-31,Teclado,5,120.0,Carla
+2026-07-27,Teclado,1,120.0,Carla
+2026-05-27,Caderno,4,18.9,Carla
+2026-08-27,Mouse,4,45.0,Bruno
+2026-09-19,Mouse,2,45.0,Ana
+2026-05-26,Teclado,5,120.0,Carla
+2026-02-17,Caderno,3,18.9,Bruno
+2026-04-12,Caderno,1,18.9,Ana
+2026-05-06,Mouse,5,45.0,Ana
+2026-08-22,Mouse,5,45.0,Bruno
+2026-07-16,Mouse,4,45.0,Bruno
+2026-03-17,Fone de ouvido,1,75.5,Ana
+2026-08-06,Caderno,2,18.9,Diego
+2026-01-26,Teclado,2,120.0,Ana
+2026-08-22,Caderno,4,18.9,Carla
+2026-08-15,Teclado,5,120.0,Diego
+2026-08-17,Caderno,4,18.9,Diego
+2026-05-13,Caderno,3,18.9,Diego
+2026-05-03,Mochila,4,89.9,Ana
+2026-05-27,Caderno,3,18.9,Carla
+2026-06-13,Teclado,1,120.0,Bruno
+2026-03-19,Caderno,4,18.9,Bruno
+2026-04-20,Caneta,4,2.5,Diego
+2026-06-19,Teclado,4,120.0,Diego
+2026-02-01,Caderno,4,18.9,Diego
+2026-01-11,Teclado,4,120.0,Diego
+2026-01-04,Mochila,3,89.9,Diego
+2026-08-03,Teclado,5,120.0,Bruno
+2026-09-07,Caderno,3,18.9,Diego
+2026-09-06,Caneta,4,2.5,Carla
+2026-07-27,Fone de ouvido,2,75.5,Diego
+2026-03-07,Teclado,5,120.0,Ana
+2026-07-21,Teclado,5,120.0,Ana
+2026-02-12,Fone de ouvido,4,75.5,Bruno
+2026-08-25,Caderno,1,18.9,Carla
+2026-07-14,Mochila,2,89.9,Diego
+2026-06-17,Mochila,4,89.9,Carla
+2026-08-04,Mochila,1,89.9,Diego
+2026-01-10,Fone de ouvido,5,75.5,Ana
+2026-06-29,Caderno,1,18.9,Ana
+2026-01-16,Caderno,2,18.9,Ana
+2026-03-20,Caderno,2,18.9,Diego
+2026-02-28,Teclado,2,120.0,Diego
+2026-05-12,Mochila,2,89.9,Ana
+2026-03-25,Mochila,1,89.9,Ana
+2026-06-09,Teclado,4,120.0,Diego
+2026-04-12,Caneta,5,2.5,Bruno
+2026-02-22,Fone de ouvido,3,75.5,Ana
+2026-01-22,Mochila,5,89.9,Diego
+2026-07-09,Caneta,5,2.5,Carla
+2026-01-07,Mouse,4,45.0,Ana
+2026-08-10,Mochila,4,89.9,Bruno
+2026-08-11,Caderno,5,18.9,Carla
+2026-09-05,Mouse,4,45.0,Carla
+2026-06-15,Caderno,1,18.9,Carla
+2026-08-19,Caderno,4,18.9,Diego
+2026-06-22,Caneta,4,2.5,Carla
+2026-04-04,Mouse,2,45.0,Carla
+2026-05-13,Mochila,3,89.9,Carla
+2026-01-06,Teclado,2,120.0,Ana
+2026-05-04,Fone de ouvido,4,75.5,Diego
+2026-05-04,Fone de ouvido,4,75.5,Diego
+2026-08-18,Caneta,1,2.5,Carla
+2026-04-24,Mouse,2,45.0,Carla
+2026-07-08,Mouse,5,45.0,Carla
+2026-08-06,Fone de ouvido,5,75.5,Carla
+2026-06-30,Fone de ouvido,4,75.5,Carla
+2026-06-06,Mochila,2,89.9,Ana
+2026-04-09,Mochila,1,89.9,Bruno
+2026-04-09,Caderno,4,18.9,Carla
+2026-09-26,Teclado,3,120.0,Ana
+2026-04-10,Mochila,2,89.9,Carla
+2026-04-02,Mochila,1,89.9,Bruno
+2026-05-21,Caneta,1,2.5,Carla
+2026-03-06,Fone de ouvido,4,75.5,Ana
+2026-01-07,Teclado,3,120.0,Diego
+2026-09-03,Mouse,3,45.0,Bruno
+2026-01-27,Mochila,4,89.9,Ana
+2026-02-03,Mouse,4,45.0,Ana
+2026-01-28,Caderno,2,18.9,Carla
+2026-02-13,Caderno,1,18.9,Diego
+2026-04-26,Teclado,4,120.0,Diego
+2026-08-15,Mochila,5,89.9,Diego
+2026-06-06,Teclado,5,120.0,Ana
+2026-02-20,Caderno,2,18.9,Carla
+2026-02-11,Caderno,2,18.9,Bruno
